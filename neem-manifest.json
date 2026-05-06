@@ -1,0 +1,26 @@
+{
+  "name": "Nee-m — Desglosa tu mente",
+  "short_name": "Nee-m",
+  "description": "Organiza tus ideas, crea tareas y estudia sin distracciones.",
+  "start_url": "./neem.html",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#7c5cfc",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='100' fill='%230a0a0f'/%3E%3Ccircle cx='256' cy='256' r='220' fill='none' stroke='%237c5cfc' stroke-width='18'/%3E%3Ctext x='256' y='320' text-anchor='middle' font-size='240' font-family='Arial Black' font-weight='900' fill='%237c5cfc'%3EN%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='100' fill='%230a0a0f'/%3E%3Ccircle cx='256' cy='256' r='220' fill='none' stroke='%237c5cfc' stroke-width='18'/%3E%3Ctext x='256' y='320' text-anchor='middle' font-size='240' font-family='Arial Black' font-weight='900' fill='%237c5cfc'%3EN%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "education", "utilities"],
+  "lang": "es"
+}
